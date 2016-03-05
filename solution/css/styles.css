@@ -17,7 +17,6 @@ body {
 .navbar-default .navbar-nav > li > a {
   color: ghostwhite;
   text-shadow: 1px 1px 1px #222;
-  text-align: center;
 }
 
 .navbar-brand h1 {
@@ -45,5 +44,5 @@ body {
 
 section {
   color: ghostwhite;
-    text-align: justify;
+  text-align: justify;
 }
